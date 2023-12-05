@@ -25,6 +25,16 @@
 
 # Программирование (4 курс)
 
+1. ЛР1: [https://replit.com/@MatveyCap/1LAB-7-COURSE#main.py](https://replit.com/@MatveyCap/1LAB-7-COURSE#main.py)
+2. ЛР2: [https://colab.research.google.com/drive/1t3IXLT7dpOEoUV2UZNTJRAwZiHPGVauU?usp=sharing](https://colab.research.google.com/drive/1t3IXLT7dpOEoUV2UZNTJRAwZiHPGVauU?usp=sharing)
+3. ЛР3: [https://colab.research.google.com/drive/1bNBt0g8s14lCykyKsSJt5nkOwpazexiP?usp=sharing](https://colab.research.google.com/drive/1bNBt0g8s14lCykyKsSJt5nkOwpazexiP?usp=sharing)
+4. ЛР4: [https://github.com/textil24/LAB_4.git](https://github.com/textil24/LAB_4.git)
+5. ЛР5: [https://github.com/textil24/LAB_5.git](https://github.com/textil24/LAB_5.git)
+6. ЛР6: [https://github.com/textil24/LAB_6.git](https://github.com/textil24/LAB_6.git)
+7. ЛР7: [https://github.com/textil24/LAB_7.git](https://github.com/textil24/LAB_7.git)
+8. ЛР8: [https://github.com/textil24/LAB_8.git](https://github.com/textil24/LAB_8.git)
+9. ЛР9: [https://github.com/textil24/LAB_9.git](https://github.com/textil24/LAB_9.git)
+
 # Веб-проектирование
 
 1. ЛР1: [https://replit.com/@MatveyCap/Matvey#index.js](https://replit.com/@MatveyCap/Matvey#index.js)
